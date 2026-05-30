@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">个人日记账</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="remember_password">记住密码（免密码登录）</string>
+    <string name="no_account">还没有账号？</string>
+    <string name="has_account">已有账号？返回登录</string>
+    <string name="home_title">个人日记账</string>
+    <string name="total_income">总收入</string>
+    <string name="total_expense">总支出</string>
+    <string name="balance">当前结余</string>
+    <string name="add_record">添加记录</string>
+    <string name="edit_record">编辑记录</string>
+    <string name="category_manage">分类管理</string>
+    <string name="all_records">全部记录</string>
+    <string name="income">收入</string>
+    <string name="expense">支出</string>
+    <string name="amount">金额</string>
+    <string name="category">分类</string>
+    <string name="date_time">日期时间</string>
+    <string name="note">备注</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="logout">退出登录</string>
+    <string name="no_records">暂无记录</string>
+    <string name="no_categories">暂无分类</string>
+    <string name="student_info">241060560331 任毅</string>
+</resources>

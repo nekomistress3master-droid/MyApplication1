@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApplication" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- 自定义主题颜色 -->
+        <item name="android:colorPrimary">#00796B</item>
+        <item name="android:colorPrimaryDark">#004D40</item>
+        <item name="android:colorAccent">#26A69A</item>
+        <item name="android:statusBarColor">#004D40</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+    </style>
+</resources>
