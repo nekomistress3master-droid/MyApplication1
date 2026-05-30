@@ -54,19 +54,6 @@
 4. 连接手机或启动模拟器
 5. 点击 Run 按钮运行
 
-## 🗂 项目结构
-app/
-├── src/main/java/com/example/myapplication/
-│   ├── ui/                          # UI 界面
-│   │   ├── LoginScreen.kt           # 登录界面
-│   │   ├── RegisterScreen.kt        # 注册界面
-│   │   ├── HomeScreen.kt            # 主页
-│   │   └── AddRecordScreen.kt       # 记账界面
-│   ├── data/                        # 数据层
-│   │   ├── database/                # Room 数据库
-│   │   └── repository/              # 数据仓库
-│   └── MainActivity.kt              # 主活动
-└── src/main/res/                    # 资源文件
 ## 📋 数据库设计
 
 | 表名 | 字段 | 说明 |
