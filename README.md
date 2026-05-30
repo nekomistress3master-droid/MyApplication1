@@ -55,3 +55,46 @@
 5. 点击 Run 按钮运行
 
 ## 🗂 项目结构
+app/
+├── src/main/java/com/example/myapplication/
+│ ├── ui/ # UI 界面
+│ │ ├── LoginScreen.kt # 登录界面
+│ │ ├── RegisterScreen.kt # 注册界面
+│ │ ├── HomeScreen.kt # 主页
+│ │ └── AddRecordScreen.kt # 记账界面
+│ ├── data/ # 数据层
+│ │ ├── database/ # Room 数据库
+│ │ └── repository/ # 数据仓库
+│ └── MainActivity.kt # 主活动
+└── src/main/res/ # 资源文件
+
+## 📋 数据库设计
+
+| 表名 | 字段 | 说明 |
+|------|------|------|
+| User | id, username, password | 用户表 |
+| Category | id, name, type, userId | 类别表 |
+| Record | id, amount, categoryId, date, note, userId | 收支记录表 |
+
+## 👨‍💻 作者
+
+| 项目 | 信息 |
+|------|------|
+| 姓名 | 秋 |
+| 学校 | 成都文理学院|
+
+## 📄 要求完成情况
+
+- ✅ 用户登录验证和免密码登录
+- ✅ 账目类别管理
+- ✅ 收支账目管理
+- ✅ 包含3张以上核心功能表
+- ✅ 界面美观，良好交互
+- ✅ Activity 生命周期和组件间通信
+- ✅ 轻量化存储（SharedPreferences/Room）
+
+## 📞 联系方式
+
+如有问题请联系：3014682346@qq.com
+
+---
