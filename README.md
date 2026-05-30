@@ -37,7 +37,7 @@
 
 ## 📸 界面截图
 
-<img width="300" height="2400" alt="Screenshot_2026-05-30-01-25-07-096_com example my" src="https://github.com/user-attachments/assets/1b9100ac-1933-4d5a-b859-236914cc0075" />
+<img width="300" alt="Screenshot" src="https://github.com/user-attachments/assets/1b9100ac-1933-4d5a-b859-236914cc0075" />
 <img width="300" height="2400" alt="Screenshot_2026-05-30-01-25-11-286_com example my" src="https://github.com/user-attachments/assets/cb299a6e-e34a-4ab1-9070-ebfd66527a9b" />
 
 
